@@ -1,7 +1,7 @@
 // Array of photo data (update with your images and captions)
 const photos = [
     {
-        src: "images/photo1.jpg",
+        src: "images/dad1.JPG",
         caption: "Dad teaching me to ride a bike, 2010. He never let go!"
     },
     {
